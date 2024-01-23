@@ -11,6 +11,9 @@ yarn.lock
 /coverage
 /dev-data
 
+# config
+config.env
+
 # Debugging logs
 *.log
 *.log.*
